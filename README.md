@@ -8,4 +8,4 @@ Sample video url (for testing): http://commondatastorage.googleapis.com/gtv-vide
 
 <img src=https://github.com/AbhinavSharma24/ExoPlayer/blob/master/Screenshots/Screenshot_20200615-183542.png height=520px width=300px>
 <img src=https://github.com/AbhinavSharma24/ExoPlayer/blob/master/Screenshots/Screenshot_20200615-183848.png height=520px width=300px>
-<img src=https://github.com/AbhinavSharma24/ExoPlayer/blob/master/Screenshots/Screenshot_20200615-183935.png height=520px width=300px>
+<img src=https://github.com/AbhinavSharma24/ExoPlayer/blob/master/Screenshots/Screenshot_20200618-174825.jpg height=520px width=300px>
