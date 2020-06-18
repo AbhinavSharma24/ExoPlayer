@@ -65,10 +65,9 @@ public class ExoPlayerActivity extends AppCompatActivity implements Player.Event
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         requestWindowFeature(Window.FEATURE_NO_TITLE);
-        this.getWindow()
-                .setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
-                        WindowManager.LayoutParams.FLAG_FULLSCREEN);
+        this.getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
         setContentView(R.layout.activity_exo_player);
+
         ButterKnife.bind(this);
         AppCompatDelegate.setCompatVectorFromResourcesEnabled(true);
         Objects.requireNonNull(getSupportActionBar()).hide();
